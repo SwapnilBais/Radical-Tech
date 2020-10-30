@@ -20,14 +20,14 @@ def power():
 s = input("Add, Sub, Mul, Div or Power of two Numbers: ")
 if s == "add":
     print(add ())
-elif s == "subtract":
+elif s == "sub":
     print(sub ())
-elif s == "multiply":
+elif s == "mul":
     print(mult ())
+elif s == "div":
+    print(division ())
 elif s == "power":
     print(power ())
-elif s == "division":
-    print(division ())
 else:
     print ("Enter a valid option")
     
