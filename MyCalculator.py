@@ -31,5 +31,3 @@ elif s == "division":
 else:
     print ("Enter a valid option")
     
-SyntaxError: invalid syntax
->>> 
